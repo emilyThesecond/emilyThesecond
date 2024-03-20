@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @emilyThesecond
 - 👀 I’m interested in learning new tech stacks and languages!
 - 🌱 I’m currently learning next.js, tailwind.
-- 💞️ I’m looking to collaborate on any cool full-stack projects!
 - 📫 How to reach me: emily.segundo.n@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love plants, pottery, and coffee!
